@@ -1,0 +1,5 @@
+C:\Users\Home\source\repos\blurp\blurp\bin\Debug\blurp.exe.config
+C:\Users\Home\source\repos\blurp\blurp\bin\Debug\blurp.exe
+C:\Users\Home\source\repos\blurp\blurp\bin\Debug\blurp.pdb
+C:\Users\Home\source\repos\blurp\blurp\obj\Debug\blurp.exe
+C:\Users\Home\source\repos\blurp\blurp\obj\Debug\blurp.pdb

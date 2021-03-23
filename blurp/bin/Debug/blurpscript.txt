@@ -1,0 +1,2 @@
+execute C:\windows\system32\calc.exe
+sleep 1000
